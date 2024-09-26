@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ducthinh",
-  "description": "ducthinh took extensions",
+  "description": "ducthinh tool extensions",
   "version": "1.0",
   "content_scripts": [
     {
